@@ -16,6 +16,10 @@ To run this application, you need to have the following:
 
 Enjoy checking the weather with the Weather App! Happy forecasting!
 
+https://github.com/eamonwong/Weather-Fetcher/assets/75913022/6312f79a-571c-4997-a140-3bbfd0b542f9
+
+
+
 
 
 
