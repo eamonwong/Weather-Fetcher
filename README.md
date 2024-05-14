@@ -7,6 +7,8 @@ Welcome to the Weather Fecther! This project provides a simple GUI interface for
   - Fetch Weather Data: The application fetches current weather data from the OpenWeatherMap API based on the provided city name.
   - Display Weather Information: Once the weather data is retrieved, the application displays the weather description and temperature in Celsius.
 
+- Do not share your API key publicly as it poses a security risk.
+
 # Requirements
 To run this application, you need to have the following:
 
