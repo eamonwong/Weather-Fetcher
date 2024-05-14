@@ -1,7 +1,8 @@
 import tkinter as tk
 import requests
 
-API_KEY = "047313308e4ff618959465753ef430ac"
+# Don't share API_KEY
+API_KEY = ""
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 def get_weather():
