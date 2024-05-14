@@ -11,8 +11,8 @@ Welcome to the Weather Fecther! This project provides a simple GUI interface for
 To run this application, you need to have the following:
 
 - Python 3.x installed on your system.
-- tkinter library for creating the graphical user interface.
-- requests library for making HTTP requests to the OpenWeatherMap API.
+- 'tkinter' library for creating the graphical user interface.
+- 'requests' library for making HTTP requests to the OpenWeatherMap API.
 
 Enjoy checking the weather with the Weather App! Happy forecasting!
 
