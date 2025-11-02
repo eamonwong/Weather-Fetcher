@@ -16,7 +16,7 @@ To run this application, you need to have the following:
 - 'tkinter' library for creating the graphical user interface.
 - 'requests' library for making HTTP requests to the OpenWeatherMap API.
 
-Enjoy checking the weather with the Weather App! Happy forecasting!
+---
 
 https://github.com/eamonwong/Weather-Fetcher/assets/75913022/6312f79a-571c-4997-a140-3bbfd0b542f9
 
